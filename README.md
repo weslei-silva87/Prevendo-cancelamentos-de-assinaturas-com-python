@@ -24,7 +24,7 @@ Os dados revelaram que clientes insatisfeitos que realizaram acima de 5 ligaçõ
 Ficou evidente que atrasos nos pagamentos eram uma causa frequente de cancelamento, especialmente quando atingiam o limite de 20 dias. Será necessario desenvolver estratégias para incentivar os clientes a regularizarem seus pagamentos antes de atingirem esse ponto crítico.
 
 <div align="center">
-  <h1>Clientes Mais 51 anos de Idade</h1>
+  <h1>Clientes com mais de 51 anos de idade</h1>
   <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/abb2e73b-cd21-4930-90bc-c093908d8a19.png" alt="Idade" width="600">
 </div>
 
@@ -47,7 +47,7 @@ Identificamos que o contrato mensal tem uma taxa de cancelamento relativamente a
 Diante dessas descobertas, se realizamos as devidas mudanças e ajuste, pelo modelo desenvolvido de análise, visando melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao implementar essas mudanças, projetamos uma queda na taxa de cancelamento de 56% para 26%, refletindo nosso compromisso em impulsionar o sucesso a longo prazo no mercado de telecomunicações.
 
 <div align="center">
-  <h1 style="text-transform: uppercase;">Análise Prescritiva para emresa</h1>
+  <h1 style="text-transform: uppercase;">Análise Prescritiva</h1>
 </div>
 
 **Melhorias no Atendimento ao Cliente**
