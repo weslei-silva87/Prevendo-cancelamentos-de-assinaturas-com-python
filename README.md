@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Prevendo cancelamentos de assinaturas com Python </h1>
-  <img src="file:///C:/Users/Weslei/Desktop/desafio%207/capa.png" alt="Capa" width="600">
+  <h1>Prevendo cancelamentos de assinaturas com Python</h1>
+  <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/8bc5e896-0818-4d30-b127-fa8ce89694b2" alt="Capa" width="600">
 </div>
 
 
