@@ -46,15 +46,22 @@ Identificamos que o contrato mensal tem uma taxa de cancelamento relativamente a
 
 Diante dessas descobertas, se realizamos as devidas mudanças e ajuste, pelo modelo desenvolvido de análise, visando melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao implementar essas mudanças, projetamos uma queda na taxa de cancelamento de 56% para 26%, refletindo nosso compromisso em impulsionar o sucesso a longo prazo no mercado de telecomunicações.
 
-#Análise Prescritiva para emresa
+<div align="center">
+  <h1 style="text-transform: uppercase;">Análise Prescritiva para emresa</h1>
+</div>
 
-#Melhorias no Atendimento ao Cliente:
+**Melhorias no Atendimento ao Cliente**
+
 Investir em treinamentos contínuos para a equipe de atendimento, focados em habilidades de comunicação, empatia e resolução de problemas, pode fazer toda a diferença. Lembre-se, resolver problemas rapidamente e garantir que os clientes se sintam valorizados durante todo o processo são chaves para manter sua fidelidade.
 
-#Estratégias para Lidar com Atrasos no Pagamento:
+**Estratégias para Lidar com Atrasos no Pagamento**
+
 Os atrasos nos pagamentos podem ser uma fonte significativa de cancelamento. Mantenha uma abordagem proativa, entrando em contato com os clientes assim que um atraso for detectado. Ofertas especiais e incentivos para regularizar os pagamentos antes do prazo crítico de 20 dias podem ser uma ótima maneira de manter os clientes engajados.
 
-#Aprimoramento do Produto para o Segmento de Clientes com Mais de 51 Anos:
+**Aprimoramento do Produto para o Segmento de Clientes com Mais de 51 Anos**
+
 Reconheça as necessidades específicas de cada segmento demográfico. Clientes mais velhos, por exemplo, podem ter preferências diferentes em relação à usabilidade do produto. Simplifique a interface e ofereça suporte técnico especializado para garantir que eles possam aproveitar ao máximo o produto.
 
-As estratégias representam um compromisso firme da empresa em melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao adotar uma abordagem com foco no cliente, a empresa está bem posicionada para impulsionar sua retenção de clientes e alcançar o sucesso a longo prazo no mercado de telecomunicações.
+**As estratégias representam um compromisso firme da empresa em melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao adotar uma abordagem com foco no cliente, a empresa está bem posicionada para impulsionar sua retenção de clientes e alcançar o sucesso a longo prazo no mercado de telecomunicações**
+
+
