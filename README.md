@@ -9,7 +9,13 @@ Quando iniciamos a análise dos dados nos deparamos com um banco de dados de mai
 
 Com essa compreensão inicial em mente, mergulhamos mais fundo nos dados, buscando padrões e tendências que pudessem nos guiar na busca por soluções. Nosso objetivo era claro: encontrar maneiras de melhorar a experiência de nossos clientes e, assim, aumentar sua fidelidade à nossa empresa. Ao explorar os dados disponíveis, percebi alguns pontos que contribuíam para as altas taxas de cancelamento. Três áreas em particular se destacaram:
 
-#Atendimento Deficiente: Os dados revelaram que clientes insatisfeitos com o atendimento tinham uma propensão maior a cancelar suas assinaturas. Isso nos instigou a melhorar a qualidade e a eficiência do nosso serviço de atendimento ao cliente.
+<div align="center">
+  <h1>Atendimento Deficiente</h1>
+  <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/91e71637-8dd4-4e53-8457-319018cd3d9f.png" alt="Ligações Call" width="600">
+</div>
+
+Os dados revelaram que clientes insatisfeitos que realizaram acima de 5 ligações tinham uma propensão maior a cancelar suas assinaturas. Isso nos mostrou que e necessario melhorar a qualidade e a eficiência do nosso serviço de atendimento ao cliente.
+
 
 #Atrasos no Pagamento: Ficou evidente que atrasos nos pagamentos eram uma causa frequente de cancelamento, especialmente quando atingiam o limite de 20 dias. Desenvolvemos estratégias para incentivar os clientes a regularizarem seus pagamentos antes de atingirem esse ponto crítico.
 
