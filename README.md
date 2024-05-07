@@ -1,3 +1,9 @@
+<div align="center">
+  <h1>Análise e Previsão Vendas de uma Farmacêutica</h1>
+  <img src="file:///C:/Users/Weslei/Desktop/desafio%207/capa.png" alt="Capa" width="600">
+</div>
+
+
 # Prevendo cancelamentos de assinaturas com Python 
 
 O desenvolvimento do projeto para prever os cancelamentos em uma empresa com uma taxa significativa de desistências foi uma jornada que envolveu diversas etapas e ações estratégicas. Inicialmente, foi crucial entender a natureza dos dados disponíveis e identificar os padrões que levavam aos cancelamentos. Para isso, realizamos um processo abrangente de tratamento dos dados, que incluiu extração, limpeza e preparação para análise.
