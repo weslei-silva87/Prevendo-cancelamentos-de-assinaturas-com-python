@@ -16,36 +16,45 @@ Com essa compreensão inicial em mente, mergulhamos mais fundo nos dados, buscan
 
 Os dados revelaram que clientes insatisfeitos que realizaram acima de 5 ligações tinham uma propensão maior a cancelar suas assinaturas. Isso nos mostrou que e necessario melhorar a qualidade e a eficiência do nosso serviço de atendimento ao cliente.
 
+<div align="center">
+  <h1>Atrasos no Pagamento</h1>
+  <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/8538dc9a-fa5c-49c1-8fdc-fb5cbd765281.png" alt="Dias de Atraso" width="600">
+</div>
 
-#Atrasos no Pagamento: Ficou evidente que atrasos nos pagamentos eram uma causa frequente de cancelamento, especialmente quando atingiam o limite de 20 dias. Desenvolvemos estratégias para incentivar os clientes a regularizarem seus pagamentos antes de atingirem esse ponto crítico.
+Ficou evidente que atrasos nos pagamentos eram uma causa frequente de cancelamento, especialmente quando atingiam o limite de 20 dias. Será necessario desenvolver estratégias para incentivar os clientes a regularizarem seus pagamentos antes de atingirem esse ponto crítico.
 
-#Necessidades Não Atendidas do Segmento de Clientes Mais Velhos: Clientes com mais de 51 anos apresentavam uma taxa de cancelamento mais alta, indicando que suas necessidades específicas não estavam sendo totalmente atendidas. Isso nos motivou a melhorar o produto para esse segmento demográfico.
+<div align="center">
+  <h1>Clientes Mais 51 anos de Idade</h1>
+  <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/abb2e73b-cd21-4930-90bc-c093908d8a19.png" alt="Idade" width="600">
+</div>
 
-Além desses desafios identificados, nossa análise visual revelou dois pontos adicionais de interesse:
-#Gastos dos Clientes: 
+Clientes com mais de 51 anos apresentavam uma taxa de cancelamento mais alta, indicando que suas necessidades específicas não estavam sendo totalmente atendidas. Isso nos motiva a melhorar o produto para esse segmento.
+
+<div align="center">
+  <h1>Gastos dos Clientes</h1>
+  <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/0cca564c-3903-4e06-9577-27c9d840003e.png" alt="Total Gasto" width="600">
+</div>
+
 Observamos que os clientes que gastam mais de 500 reais têm uma tendência significativamente menor a cancelar os serviços. Isso sugere a importância de focar em estratégias para reter clientes de alto valor, proporcionando-lhes experiências excepcionais e valor agregado.
 
-#Contrato Mensal: 
+<div align="center">
+  <h1>Contrato Mensal</h1>
+  <img src="https://github.com/weslei-silva87/Prevendo-cancelamentos-de-assinaturas-com-python/assets/163655532/659a6e65-a07a-42b4-b66f-8824b60b6f69.png" alt="Tipo de Contrato" width="600">
+</div>
+
 Identificamos que o contrato mensal tem uma taxa de cancelamento relativamente alta. Isso nos levou a reavaliar nossas estratégias de precificação e oferta de serviços, buscando maneiras de tornar o contrato mensal mais atrativo e incentivando a fidelidade dos clientes.
 
-Diante dessas descobertas, desenvolvemos estratégias abrangentes para enfrentar cada um desses desafios, visando melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao implementar essas mudanças, projetamos uma queda na taxa de cancelamento de 56% para 26%, refletindo nosso compromisso em impulsionar o sucesso a longo prazo no mercado de telecomunicações.
+Diante dessas descobertas, se realizamos as devidas mudanças e ajuste, pelo modelo desenvolvido de análise, visando melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao implementar essas mudanças, projetamos uma queda na taxa de cancelamento de 56% para 26%, refletindo nosso compromisso em impulsionar o sucesso a longo prazo no mercado de telecomunicações.
+
+#Análise Prescritiva para emresa
 
 #Melhorias no Atendimento ao Cliente:
-Os altos índices de cancelamento associados ao atendimento inadequado, a empresa priorizou aprimoramentos significativos nessa área. A equipe de atendimento foi submetida a treinamentos contínuos, focados em habilidades de comunicação, empatia e resolução de problemas. Além disso, foram implementadas medidas para reduzir os tempos de espera, como sistemas de fila de espera eficientes e opções de autoatendimento. Essas iniciativas visam não apenas resolver problemas rapidamente, mas também garantir que os clientes se sintam valorizados e compreendidos durante todo o processo de atendimento.
+Investir em treinamentos contínuos para a equipe de atendimento, focados em habilidades de comunicação, empatia e resolução de problemas, pode fazer toda a diferença. Lembre-se, resolver problemas rapidamente e garantir que os clientes se sintam valorizados durante todo o processo são chaves para manter sua fidelidade.
 
 #Estratégias para Lidar com Atrasos no Pagamento:
-Os atrasos nos pagamentos foram identificados como uma importante causa de cancelamento, especialmente quando atingem o limite de 20 dias. Para mitigar esse problema, a empresa adotou uma abordagem proativa, entrando em contato com os clientes assim que um atraso foi detectado. Ofertas especiais e incentivos foram oferecidos para incentivar os clientes a regularizarem seus pagamentos antes de atingirem o limite crítico de 20 dias. Além disso, sistemas automatizados de alerta foram implementados para lembrar os clientes sobre a proximidade do prazo de pagamento, incentivando ações imediatas para evitar a inadimplência.
+Os atrasos nos pagamentos podem ser uma fonte significativa de cancelamento. Mantenha uma abordagem proativa, entrando em contato com os clientes assim que um atraso for detectado. Ofertas especiais e incentivos para regularizar os pagamentos antes do prazo crítico de 20 dias podem ser uma ótima maneira de manter os clientes engajados.
 
 #Aprimoramento do Produto para o Segmento de Clientes com Mais de 51 Anos:
-Os dados revelaram que clientes com mais de 51 anos apresentavam uma taxa de cancelamento significativa, indicando necessidades não atendidas nesse segmento demográfico. Em resposta, a empresa se comprometeu a aprimorar o produto para atender melhor às necessidades e preferências desse grupo de clientes. A interface do produto foi simplificada e tornada mais amigável, levando em consideração as habilidades tecnológicas e preferências de usabilidade dos clientes mais velhos. Além disso, suporte técnico especializado foi disponibilizado, garantindo que os clientes mais velhos recebam a assistência necessária para aproveitar ao máximo o produto.
+Reconheça as necessidades específicas de cada segmento demográfico. Clientes mais velhos, por exemplo, podem ter preferências diferentes em relação à usabilidade do produto. Simplifique a interface e ofereça suporte técnico especializado para garantir que eles possam aproveitar ao máximo o produto.
 
-As estratégias representam um compromisso firme da empresa em melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao adotar uma abordagem holística e focada no cliente, a empresa está bem posicionada para impulsionar sua retenção de clientes e alcançar o sucesso a longo prazo no mercado de telecomunicações.
-
-
-
-
-
-
-
-
-
+As estratégias representam um compromisso firme da empresa em melhorar a experiência do cliente e reduzir as taxas de cancelamento. Ao adotar uma abordagem com foco no cliente, a empresa está bem posicionada para impulsionar sua retenção de clientes e alcançar o sucesso a longo prazo no mercado de telecomunicações.
